@@ -1,0 +1,4 @@
+[package]
+name = "rust_learner"
+version = "0.1.0"
+aurthors = ["Matthew Brimmer", "none@none.com"]
